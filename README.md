@@ -1,6 +1,6 @@
 ## Capacitacion de JAVA backend 21 al 25 de febrero de 2022 
 
-#### Instructor: Ing. MikeMacuil Montiel
+#### Instructor: Ing.Froebel Montiel
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="200">
  
@@ -33,8 +33,8 @@ Java por cada participante
 - Fundamentos en Java
   - Programación orientada a objetos
   - Herencia
-  - Encapsulación y subclases
-  - Sobreescritura, Polimorfismo
+  - Encapsulación y subclases
+  - Sobreescritura, Polimorfismo
 - Funciones Lambda
 - Interfaces funcionales
 -  API Stream
@@ -53,7 +53,7 @@ Java por cada participante
 - Postman
 
 #### Agradecimientos
-Agradezco al Ing. MikeMacuil Montiel por hacer posible esta capacitacion y excelente disposicion para compartir los conocimientos dados.
+Agradezco al Ing.Froebel Montiel por hacer posible esta capacitacion y excelente disposicion para compartir los conocimientos dados.
 <center>
   <img src="https://media.istockphoto.com/photos/thank-you-picture-id1307626043?b=1&k=20&m=1307626043&s=170667a&w=0&h=fRiHXM1MAWDh-JKFO18CdFgncjJEgOyxBEvTduQX5_Q="  width="200" />
 </center>
