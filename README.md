@@ -46,12 +46,6 @@ Java por cada participante
 - Map
 - Bases de datos con JDBC
 
-#### Conocimientos previos a la capacitación:
-- Progradation POO
-- HTML 5
-- CSS3
-- JS
-- Manejo de Gi
 
 #### Requerimientos del protecto
 - JDK 1.8
